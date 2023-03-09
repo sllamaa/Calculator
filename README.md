@@ -1,6 +1,6 @@
 # Calculator Mobile App;ication using Flutter
 
-## Getting Started
+## A fully functional calculator with a loading splash screen
 
 
 ![Screenshot 2023-03-09 164903](https://user-images.githubusercontent.com/65141217/224028030-fdb195b5-a508-4403-b521-cd4f0bdcf180.jpg)
